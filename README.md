@@ -1,4 +1,4 @@
-# passwordgeneration
+# Passwordgeneration
 Password Generator using Python tkinter
 This is a simple password generator application built using Python's tkinter library. It generates a random password based on user-defined length and copies it to the clipboard automatically.
 
