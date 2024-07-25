@@ -18,7 +18,7 @@ Installation
 
 1.Clone the repository:
 
-git clone https://github.com/mannenamratha/password-generator-tkinter.git
+git clone https://github.com/mannenamratha/passwordgeneration
 
 2.Navigate into the project directory:
 
